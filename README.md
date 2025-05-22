@@ -77,5 +77,3 @@ Durante este proyecto que aunque breve aprendí a como utilizar Python para real
 ---
 
 © 2025 - Duoc UC | Escuela de Informática y Telecomunicaciones
-
-```
