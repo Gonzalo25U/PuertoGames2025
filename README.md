@@ -72,7 +72,7 @@ Durante este proyecto que aunque breve aprendí a como utilizar Python para real
 
 ## 🗃️ Repositorio GitHub
 
-🔗 [Enlace al repositorio](https://github.com/Gonzalo25U/puertogames-crud)
+🔗 [Enlace al repositorio](https://github.com/Gonzalo25U/PuertoGames2025.git)
 
 
 
