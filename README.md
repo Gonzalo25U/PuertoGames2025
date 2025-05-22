@@ -74,6 +74,10 @@ Durante este proyecto que aunque breve aprendí a como utilizar Python para real
 
 🔗 [Enlace al repositorio](https://github.com/Gonzalo25U/PuertoGames2025.git)
 
+---
 
+© 2025 - Duoc UC | Escuela de Informática y Telecomunicaciones
+
+```
 
 
